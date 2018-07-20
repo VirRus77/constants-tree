@@ -1,2 +1,2 @@
-# constants-tree
-Constants tree JS
+# Constants Tree
+Arrange your constants.

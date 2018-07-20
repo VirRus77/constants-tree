@@ -32,7 +32,7 @@ export const LoginReject = () => ({
 ```
 #### Replace
 ```JS
-import constantsTree from 'constants-tree';
+import {constantsTree} from 'constants-tree';
 
 const appConstant = {
   loginForm: {
